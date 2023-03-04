@@ -1,0 +1,82 @@
+body {
+	background: #efefef;
+}
+a {
+	background: red;
+}
+nav {
+	background: red;
+	bottom: 100em;
+	padding: 1.5em 1em;
+}
+li {
+	display: inline-block;
+	color: white;
+	font-family: Cooper Black;
+	background: red;
+}
+div .Laptop, .PCOficina, .PCGamer {
+	display: inline-block;
+	text-align: center;
+	box-shadow: 200px;
+	background: white;
+	padding: 10px;
+}
+h1 {
+	text-align: center;
+	font-family: Wide Latin;
+}
+p {
+	text-align: center;
+	font-family: Impact;
+	margin: 20px;
+	line-height: 2;
+}
+.Laptop {
+	margin-left: 15em;
+	margin-right: 2em;
+}
+.Inicio {
+	margin-right: 53em;
+}
+.inicio:hover {
+	background: #ff6060;
+}
+.inicio, .contacto, .sobrenosotros, .iniciarsesión {
+	color: white;
+	background: red;
+	border: 0;
+	position: relative;
+	padding: 5px;
+}
+.contacto:hover{
+	background: #ff6060;
+}
+.sobrenosotros:hover{
+	background: #ff6060;
+}
+.iniciarsesión:hover{
+	background: #ff6060;
+}
+.PCOficina {
+	margin-right: 1em;
+}
+.footer {
+	background: #cfcfcf;
+	padding: 2em 2em;
+	color: #707070;
+	text-align: center;
+	font-family: Microsoft Himalaya;
+	margin-top: 1em;
+}
+.Añadir {
+	background: red;
+	color: white;
+	font-family: Elephant;
+	padding: 10px;
+	margin-top: 10px;
+	border: none;
+}
+.Añadir:hover {
+	background: lightcoral;
+}
